@@ -1,0 +1,27 @@
+{
+  "name": "marco-presences",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "run": "node .",
+    "test": "Coglioni"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoB3st/presences.git"
+  },
+  "author": "Marco Baio",
+  "license": "SEE LICENSE IN .github/LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/MarcoB3st/presences/issues"
+  },
+  "homepage": "https://github.com/MarcoB3st/presences#readme",
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
